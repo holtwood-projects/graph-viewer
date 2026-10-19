@@ -67,3 +67,6 @@ CLAUDE.local.md
 # AI 工具本地状态（skills CLI 技能载荷与锁文件，不入库）
 agent/
 skills-lock.json
+
+# 本地视觉检查回执（含绝对路径，不得入库）
+*.visual-check.json
