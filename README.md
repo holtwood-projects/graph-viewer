@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://build-workbench.github.io/graph-viewer/"><strong>Online demo</strong></a>
+  <a href="https://holtwood-projects.github.io/graph-viewer/"><strong>Online demo</strong></a>
   ·
   <a href="#quick-start">Quick Start</a>
   ·
@@ -55,14 +55,14 @@ GraphViewer is a diagram editing and preview tool that provides a unified editor
 
 ### Online
 
-No installation needed — just open: **https://build-workbench.github.io/graph-viewer/**
+No installation needed — just open: **https://holtwood-projects.github.io/graph-viewer/**
 
 ### Run Locally
 
 Requirements: Node.js >= 20, npm >= 10
 
 ```bash
-git clone https://github.com/build-workbench/graph-viewer.git
+git clone https://github.com/holtwood-projects/graph-viewer.git
 cd graph-viewer
 npm install
 npm run dev
@@ -166,7 +166,7 @@ npm run format       # Prettier 格式化
 
 ![GraphViewer architecture diagram](public/architecture-diagram.svg)
 
-> Light-themed static diagram. Interactive version (supports light/dark themes, path highlighting, and export): [view online](https://build-workbench.github.io/graph-viewer/architecture.html) or open `public/architecture.html` locally.
+> Light-themed static diagram. Interactive version (supports light/dark themes, path highlighting, and export): [view online](https://holtwood-projects.github.io/graph-viewer/architecture.html) or open `public/architecture.html` locally.
 
 **Layer overview**
 
@@ -207,7 +207,7 @@ npm run format       # Prettier 格式化
 
 ## Project Status
 
-This project has been archived and is no longer actively iterated. The existing code and documentation remain usable; you can use it directly or fork it for further development. To report issues, please open an [Issue](https://github.com/build-workbench/graph-viewer/issues).
+This project has been archived and is no longer actively iterated. The existing code and documentation remain usable; you can use it directly or fork it for further development. To report issues, please open an [Issue](https://github.com/holtwood-projects/graph-viewer/issues).
 
 ## License
 
@@ -229,7 +229,7 @@ Built on [Mermaid](https://mermaid.js.org/), [Kroki](https://kroki.io/), [CodeMi
 </p>
 
 <p align="center">
-  <a href="https://build-workbench.github.io/graph-viewer/"><strong>在线演示</strong></a>
+  <a href="https://holtwood-projects.github.io/graph-viewer/"><strong>在线演示</strong></a>
   ·
   <a href="#快速开始">快速开始</a>
   ·
@@ -274,14 +274,14 @@ GraphViewer 是一个图表编辑与预览工具，提供统一的编辑器、�
 
 ### 在线体验
 
-无需安装，直接打开：**https://build-workbench.github.io/graph-viewer/**
+无需安装，直接打开：**https://holtwood-projects.github.io/graph-viewer/**
 
 ### 本地运行
 
 要求：Node.js >= 20，npm >= 10
 
 ```bash
-git clone https://github.com/build-workbench/graph-viewer.git
+git clone https://github.com/holtwood-projects/graph-viewer.git
 cd graph-viewer
 npm install
 npm run dev
@@ -385,7 +385,7 @@ npm run format       # Prettier 格式化
 
 ![GraphViewer 架构图](public/architecture-diagram.svg)
 
-> 浅色静态示意图。可交互版本（支持明暗主题、路径高亮与导出）：[在线查看](https://build-workbench.github.io/graph-viewer/architecture.html) 或本地打开 `public/architecture.html`。
+> 浅色静态示意图。可交互版本（支持明暗主题、路径高亮与导出）：[在线查看](https://holtwood-projects.github.io/graph-viewer/architecture.html) 或本地打开 `public/architecture.html`。
 
 **分层简述**
 
@@ -426,7 +426,7 @@ npm run format       # Prettier 格式化
 
 ## 项目状态
 
-本项目已归档，不再主动迭代。现有代码与文档保持可用，可直接使用或 fork 二次开发。如需反馈问题，请提 [Issue](https://github.com/build-workbench/graph-viewer/issues)。
+本项目已归档，不再主动迭代。现有代码与文档保持可用，可直接使用或 fork 二次开发。如需反馈问题，请提 [Issue](https://github.com/holtwood-projects/graph-viewer/issues)。
 
 ## 许可证
 
