@@ -16,7 +16,7 @@ function getBasePath() {
 
 const basePath = getBasePath();
 const siteUrl = isGitHubPages
-  ? `https://build-workbench.github.io${basePath}/`
+  ? `https://holtwood-projects.github.io${basePath}/`
   : process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000/';
 const iconUrl = isGitHubPages ? `${basePath}/favicon.svg` : '/favicon.svg';
 const ogImageUrl = isGitHubPages ? `${siteUrl}og-image.svg` : '/og-image.svg';
